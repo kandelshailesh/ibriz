@@ -48,7 +48,7 @@
     "pre-commit": "lint-staged"
   },
   "lint-staged": {
-    "*.tsddd": [
+    "*.ts": [
       "yarn lint",
       "git add"
     ]
