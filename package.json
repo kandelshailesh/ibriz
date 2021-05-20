@@ -44,7 +44,7 @@
   },
   "proxy": "https://bikewise.org:443/api/v2",
   "lint-staged": {
-    "src/**/*.{js,jsx,ts,tsx}": [
+    "src": [
       "npm run lint:js",
       "git add"
     ]
