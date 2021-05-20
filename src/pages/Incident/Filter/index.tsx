@@ -1,17 +1,17 @@
-import React, { useState } from 'react';
-import Dropdown from 'components/Dropdown';
-import Menu, { IMenuItem } from 'components/Menu/menu';
-import { Button, message, Space } from 'antd';
-import Filter from 'components/Filter';
-import { CloseCircleOutlined } from '@ant-design/icons';
-import { isMobile } from 'react-device-detect';
+import React, { useState } from "react";
+import Dropdown from "components/Dropdown";
+import Menu, { IMenuItem } from "components/Menu/menu";
+import { Button, message, Space } from "antd";
+import Filter from "components/Filter";
+import { CloseCircleOutlined } from "@ant-design/icons";
+import { isMobile } from "react-device-detect";
 
 const menu_item: Array<IMenuItem> = [
   {
-    key: 'title',
-    title: 'Title',
+    key: "title",
+    title: "Title",
   },
-  { key: 'occurred_at', title: 'Occurred Date' },
+  { key: "occurred_at", title: "Occurred Date" },
 ];
 
 interface Props {
@@ -26,8 +26,8 @@ const IncidentFilter: React.FC<Props> = ({
   setFilter,
   setFilterData,
 }) => {
-  const [filterBy, setFilterBy] = useState<null | string>('');
-  const [filterTitle, setFilterTitle] = useState<null | string>('');
+  const [filterBy, setFilterBy] = useState<null | string>("");
+  const [filterTitle, setFilterTitle] = useState<null | string>("");
   const [filterDateRange, setFilterDateRange] = useState<Array<number>>([]);
 
   const onMenuClick = (e: any) => {
@@ -51,22 +51,22 @@ const IncidentFilter: React.FC<Props> = ({
 
   const filterByList: any = [
     {
-      placeholder: 'Title',
-      title: 'Title',
-      type: 'text',
-      key: 'title',
+      placeholder: "Title",
+      title: "Title",
+      type: "text",
+      key: "title",
       onChange: handleTitleChange,
     },
     {
-      title: 'Occurred Date',
-      type: 'daterange',
-      key: 'occurred_at',
+      title: "Occurred Date",
+      type: "daterange",
+      key: "occurred_at",
       onChange: handleDateChange,
     },
   ];
 
   const handleClearFilter = () => {
-    setFilterBy('');
+    setFilterBy("");
     setFilter(false);
     setFilterData(dataSource);
   };
@@ -74,17 +74,17 @@ const IncidentFilter: React.FC<Props> = ({
     try {
       let filteredData = dataSource;
       switch (filterBy) {
-        case 'title':
+        case "title":
           if (filterTitle) {
             filteredData = dataSource.filter(
               ({ title }: any) =>
                 title.toLowerCase().indexOf(filterTitle.toLowerCase()) !== -1,
             );
           } else {
-            message.error('Please enter title');
+            message.error("Please enter title");
           }
           break;
-        case 'occurred_at':
+        case "occurred_at":
           if (filterDateRange.length > 0) {
             filteredData = dataSource.filter(
               ({ occurred_at }: any) =>
@@ -92,7 +92,7 @@ const IncidentFilter: React.FC<Props> = ({
                 occurred_at <= filterDateRange[1],
             );
           } else {
-            message.error('Please select occurred date');
+            message.error("Please select occurred date");
           }
           break;
       }
@@ -103,18 +103,18 @@ const IncidentFilter: React.FC<Props> = ({
     }
   };
   return (
-    <Space size="middle" direction={isMobile ? 'vertical' : 'horizontal'}>
+    <Space size="middle" direction={isMobile ? "vertical" : "horizontal"}>
       <Dropdown overlay={menu}></Dropdown>
       {filterBy && (
         <>
           <Filter {...filterByList.filter((r: any) => r.key === filterBy)[0]} />
-          <Space direction={'horizontal'} style={{ marginLeft: 0 }}>
+          <Space direction={"horizontal"} style={{ marginLeft: 0 }}>
             <Button type="primary" onClick={handleFilter}>
               Filter
             </Button>
             <Button onClick={handleClearFilter} type="link">
               <CloseCircleOutlined />
-              Clear Filter
+              Clear Filters
             </Button>
           </Space>
         </>
