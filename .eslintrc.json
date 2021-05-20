@@ -21,7 +21,7 @@
     "curly": "error",
     "eqeqeq": "error",
     "no-empty": "error",
-    "no-console": "off",
+    "no-console": "warn",
     "no-eq-null": "error",
     "valid-jsdoc": "error",
     "require-await": "error",
