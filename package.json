@@ -45,8 +45,8 @@
   },
   "proxy": "https://bikewise.org:443/api/v2",
   "lint-staged": {
-    "*.{ts, tsx}": [
-      "eslint",
+    "src/**/*.{js,ts,jsx,tsx}": [
+      "eslint .",
       "git add ."
     ]
   },
