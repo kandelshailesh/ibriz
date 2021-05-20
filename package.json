@@ -33,8 +33,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint:js": "eslint src/ --ext .js,.jsx",
-    "lint:js:fix": "npm run lint:js --fix",
-    "format": "prettier --write \"{,!(node_modules)/**/}*.js\""
+    "lint:js:fix": "npm run lint:js -- --fix",
+    "format": "prettier --write \"{,!(node_modules)/**/}*.js\"",
+    "postinstall": "husky install"
   },
   "eslintConfig": {
     "extends": [
