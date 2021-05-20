@@ -47,7 +47,6 @@
   "lint-staged": {
     "src/**/*.ts": [
       "npm run lint:js",
-      "prettier --write",
       "git add"
     ]
   },
