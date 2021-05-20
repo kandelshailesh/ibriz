@@ -45,12 +45,11 @@
     ]
   },
   "proxy": "https://bikewise.org:443/api/v2",
-  "husky":
-  {
-  "hooks": {
-    "pre-commit": "lint-staged"
-  }
-},
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "lint-staged": {
     "*.ts,*.tsx": [
       "yarn lint",
