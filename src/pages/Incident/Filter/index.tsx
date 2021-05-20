@@ -31,14 +31,12 @@ const IncidentFilter: React.FC<Props> = ({
   const [filterDateRange, setFilterDateRange] = useState<Array<number>>([]);
 
   const onMenuClick = (e: any) => {
-    console.log(e.key);
     setFilterBy(e.key);
   };
 
   const menu = <Menu onClick={onMenuClick} item={menu_item}></Menu>;
 
   const handleTitleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    console.log(e.target.value);
     setFilterTitle(e.target.value);
   };
   const handleDateChange = (dates: any) => {
