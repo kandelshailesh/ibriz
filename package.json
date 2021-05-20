@@ -44,6 +44,9 @@
     ]
   },
   "proxy": "https://bikewise.org:443/api/v2",
+  "hooks": {
+    "pre-commit": "lint-staged"
+  },
   "lint-staged": {
     "*.js": [
       "yarn lint",
