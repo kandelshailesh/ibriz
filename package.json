@@ -15,6 +15,7 @@
     "antd": "^4.15.6",
     "axios": "^0.21.1",
     "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
     "moment": "^2.29.1",
     "react": "^17.0.2",
     "react-device-detect": "^1.17.0",
@@ -44,9 +45,12 @@
     ]
   },
   "proxy": "https://bikewise.org:443/api/v2",
+  "husky":
+  {
   "hooks": {
     "pre-commit": "lint-staged"
-  },
+  }
+},
   "lint-staged": {
     "*.ts,*.tsx": [
       "yarn lint",
