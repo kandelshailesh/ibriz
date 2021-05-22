@@ -38,7 +38,9 @@
     "lint:js": "eslint src --ext .ts,.tsx",
     "lint:js:fix": "npm run lint:js -- --fix",
     "format": "prettier --write \"{,!(node_modules)/**/}*.js\"",
-    "postinstall": "npx husky install"
+    "postinstall": "npx husky install",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -78,11 +80,13 @@
     "@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
     "eslint": "^7.26.0",
     "eslint-plugin-react": "^7.23.2",
+    "gh-pages": "^3.1.0",
     "husky": "^4.3.8",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.0",
     "react-test-renderer": "^17.0.2",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0"
-  }
+  },
+  "homepage": "http://kandeshailesh.github.io/ibriz"
 }
