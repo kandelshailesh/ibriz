@@ -1,6 +1,6 @@
-import React from 'react';
-import IncidentTable from './Table';
-import styled from 'styled-components';
+import React from "react";
+import IncidentTable from "./Table";
+import styled from "styled-components";
 
 interface IIncidentContainer {
   primary?: boolean;
@@ -8,7 +8,7 @@ interface IIncidentContainer {
 
 const IncidentContainer = styled.div`
   background: ${(props: IIncidentContainer) =>
-    props.primary ? 'palevioletred' : 'white'};
+    props.primary ? "palevioletred" : "white"};
   height: 100%;
   width: 100vw;
 `;

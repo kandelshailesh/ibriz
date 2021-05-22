@@ -38,7 +38,7 @@ export const columns: Array<IColumn> = [
           </ShowMoreText>
         </p>
       ) : (
-        <p style={{ textAlign: "center" }}>-</p>
+        <p style={{ textAlign: "center", opacity: 0.7 }}>-</p>
       ),
   },
   {
@@ -62,7 +62,9 @@ export const columns: Array<IColumn> = [
           </ShowMoreText>
         </p>
       ) : (
-        <p style={{ textAlign: "center" }}>-</p>
+        <p style={{ textAlign: "center", opacity: 0.7 }}>
+          Description not available
+        </p>
       ),
     width: isMobile ? 200 : "20%",
     fixed: "left",
@@ -106,7 +108,7 @@ export const columns: Array<IColumn> = [
           src={record?.media?.image_url_thumb}
         />
       ) : (
-        <></>
+        <p style={{ textAlign: "center", opacity: 0.7 }}>Image not available</p>
       ),
     width: isMobile ? 100 : "10%",
     align: "center",

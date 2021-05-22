@@ -6,7 +6,7 @@ import Filter from "components/Filter";
 import { CloseCircleOutlined } from "@ant-design/icons";
 import { isMobile } from "react-device-detect";
 
-const menu_item: Array<IMenuItem> = [
+export const menu_item: Array<IMenuItem> = [
   {
     key: "title",
     title: "Title",
@@ -17,8 +17,8 @@ const menu_item: Array<IMenuItem> = [
 interface Props {
   dataSource: any;
   filter?: boolean;
-  setFilter: any;
-  setFilterData: any;
+  setFilter?: any;
+  setFilterData?: any;
 }
 const IncidentFilter: React.FC<Props> = ({
   dataSource,

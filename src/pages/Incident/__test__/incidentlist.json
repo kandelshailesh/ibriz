@@ -1,0 +1,531 @@
+[
+  {
+    "id": 136247,
+    "title": "Stolen 2020 Canyon bicycles RDL AL 6.0 19/20 bu/bu(blue)",
+    "description": "Parked in the building courtyard, away from general eyesight. Missing from 14:30 to 18:00",
+    "address": "Berlin, 10117, DE",
+    "occurred_at": 1614436200,
+    "updated_at": 1616857269,
+    "url": "https://bikewise.org/api/v1/incidents/136247",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/1011193",
+      "api_url": "https://bikeindex.org/api/v1/bikes/1011193"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/403441/large_IMG_4353.jpg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/403441/small_IMG_4353.jpg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 136215,
+    "title": "Stolen 2019 Haibike Sduro(white)",
+    "description": "",
+    "address": "Berlin, 12045, DE",
+    "occurred_at": 1614373200,
+    "updated_at": 1616792470,
+    "url": "https://bikewise.org/api/v1/incidents/136215",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/1010778",
+      "api_url": "https://bikeindex.org/api/v1/bikes/1010778"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/403123/large_Screenshot_2021-02-26_222956.png",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/403123/small_Screenshot_2021-02-26_222956.png"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 135697,
+    "title": "Stolen Other(black)",
+    "description": null,
+    "address": "Berlin, 13357, DE",
+    "occurred_at": 1613174229,
+    "updated_at": 1615593665,
+    "url": "https://bikewise.org/api/v1/incidents/135697",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/1005021",
+      "api_url": "https://bikeindex.org/api/v1/bikes/1005021"
+    },
+    "media": { "image_url": null, "image_url_thumb": null },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 132503,
+    "title": "Stolen 2017 Derby Cycle City bike(black)",
+    "description": "also my helmet was stolen \r\n",
+    "address": "Berlin, 10179, DE",
+    "occurred_at": 1607076000,
+    "updated_at": 1609761854,
+    "url": "https://bikewise.org/api/v1/incidents/132503",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/955621",
+      "api_url": "https://bikeindex.org/api/v1/bikes/955621"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/372421/large_F5E04B8E-31BF-4818-913C-49809CE465E0.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/372421/small_F5E04B8E-31BF-4818-913C-49809CE465E0.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 132309,
+    "title": "Stolen 2020 Katarga Modell: Katarga EVO c7r(silver, gray or bare metal)",
+    "description": null,
+    "address": "Berlin Hohenschönhausen, 13053, DE",
+    "occurred_at": 1606704699,
+    "updated_at": 1609383673,
+    "url": "https://bikewise.org/api/v1/incidents/132309",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/954063",
+      "api_url": "https://bikeindex.org/api/v1/bikes/954063"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/369948/large_IMG-20201129-WA0001.jpg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/369948/small_IMG-20201129-WA0001.jpg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 132048,
+    "title": "Stolen 2016 Koga-Miyata Supermetro(black and blue)",
+    "description": null,
+    "address": "Berlin, DE",
+    "occurred_at": 1606202151,
+    "updated_at": 1608800473,
+    "url": "https://bikewise.org/api/v1/incidents/132048",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/952250",
+      "api_url": "https://bikeindex.org/api/v1/bikes/952250"
+    },
+    "media": { "image_url": null, "image_url_thumb": null },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 131586,
+    "title": "Stolen 2020 Decathlon TR 100 RR MTB GREY(silver, gray or bare metal)",
+    "description": "",
+    "address": "Berlin, 13347, DE",
+    "occurred_at": 1605474000,
+    "updated_at": 1608066077,
+    "url": "https://bikewise.org/api/v1/incidents/131586",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/949092",
+      "api_url": "https://bikeindex.org/api/v1/bikes/949092"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/364295/large_CAE2EDB2-B0D1-49A2-BB83-6DAFA0AFDAC9.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/364295/small_CAE2EDB2-B0D1-49A2-BB83-6DAFA0AFDAC9.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 131438,
+    "title": "Stolen 2020 Urbandrivestyle UDX(black)",
+    "description": "My UDX was stolen from inside the building where I live in Berlin (even with two locks). It has my name engraved under the frame: B. Cooper-Clarke.",
+    "address": "Berlin, 10245, DE",
+    "occurred_at": 1605196800,
+    "updated_at": 1607796075,
+    "url": "https://bikewise.org/api/v1/incidents/131438",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/947809",
+      "api_url": "https://bikeindex.org/api/v1/bikes/947809"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/361980/large_10B66BDB-D1BB-4D8F-AD87-8563DDE06485.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/361980/small_10B66BDB-D1BB-4D8F-AD87-8563DDE06485.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 131481,
+    "title": "Stolen 2019 Cube Aluminium 6061 T6 Superlite, Road Com...(teal)",
+    "description": "Today I left the bike outside for only one hours",
+    "address": "Berlin, 10777, DE",
+    "occurred_at": 1605189600,
+    "updated_at": 1607785275,
+    "url": "https://bikewise.org/api/v1/incidents/131481",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/947953",
+      "api_url": "https://bikeindex.org/api/v1/bikes/947953"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/362104/large_WhatsApp_Image_2020-11-13_at_00.13.41.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/362104/small_WhatsApp_Image_2020-11-13_at_00.13.41.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 132055,
+    "title": "Stolen 2016 Koga-Miyata Supermetro(black and blue)",
+    "description": "Mein Fahrrad wurde zwischen dem 28.10.20 16:00 und 03.11.20 12:00 aus dem Hauskeller gestohlen. Es gibt keine Einbruchsspuren. Der Dieb hat sich also sowohl Zugang zum Haus als auch zum Keller verschafft. Wir hatten ein paar Wochen zuvor Bauarbeiten an benachbarten Häusern und eine Renovierung bei uns im Haus. Meine Befürchtung ist ein gezielter Diebstahl, da auch kein weiteres Rad bei den Häusern oder im Keller zu fehlen scheint. \r\n\r\nHILFE! \r\n\r\nBerlin Schöneberg, Diebstahl zwischen 28.10. und 03.11.2020 aus Keller gestohlen\r\n\r\nMein geliebtes \r\nKoga Supermetro(RH53), RahmenNr KG1514713, 11-Gang-Shimano-Kettenschaltung, Schutzbleche, Gepäckträger, Luftpumpenhalterung von der Strebe des Gepäckträgers abgefräst, Pitlocks an den Rädern, Ortliebtasche rechts mit kleinem silbernen Vorhängeschloss befestigt, Ständer, Aufkleber von Radsport Sonntag am Rahmen (im unteren Bereich an der Strebe, die zum Sattel führt), Original-Sattel, Griffe musste ich durch komplett schwarze ersetzen, blaue Klingel, Halterung für Batterielicht vorne, USB-Rücklicht (Büchel) war dran, Räder PitLock-gesichert \r\n\r\nwurde aus dem Keller gestohlen (am 28.10. bin ich noch damit gefahren). \r\n\r\nBitte haltet die Augen offen \u0026 gebt mir Bescheid, wenn Ihr auf Flohmärkten, bei eBay oder auf der Straße etwas seht! \r\n\r\nDanke!\r\n",
+    "address": "Berlin, DE",
+    "occurred_at": 1604401200,
+    "updated_at": 1607461292,
+    "url": "https://bikewise.org/api/v1/incidents/132055",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/952252",
+      "api_url": "https://bikeindex.org/api/v1/bikes/952252"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/367251/large_CF333029-D635-4562-8648-F23F78B24EB1.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/367251/small_CF333029-D635-4562-8648-F23F78B24EB1.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 130720,
+    "title": "Stolen 2021 Kona Rove DL(silver, gray or bare metal)",
+    "description": "The bike was locked in a storage unit in the cellar of my apartment building. Someone managed to gain access to the cellar, which requires a key, and went on to break open the door to my storage unit and take the bike. This occurred at some point between Sunday the 25th of October and Saturday the 31st of October.",
+    "address": "Berlin, 10439, DE",
+    "occurred_at": 1603699200,
+    "updated_at": 1607461311,
+    "url": "https://bikewise.org/api/v1/incidents/130720",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/941119",
+      "api_url": "https://bikeindex.org/api/v1/bikes/941119"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/353907/large_rove_dl.jpg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/353907/small_rove_dl.jpg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 130302,
+    "title": "Stolen 2020 Serious Bikes(black and yellow or gold)",
+    "description": "",
+    "address": "Berlin, 10963, DE",
+    "occurred_at": 1603641600,
+    "updated_at": 1607461314,
+    "url": "https://bikewise.org/api/v1/incidents/130302",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/938976",
+      "api_url": "https://bikeindex.org/api/v1/bikes/938976"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/350665/large_photo_2020-10-25_17-46-30.jpg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/350665/small_photo_2020-10-25_17-46-30.jpg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 130109,
+    "title": "Stolen 2020 Specialized Pitch Sport(yellow or gold and black)",
+    "description": "",
+    "address": "Berlin, 12203, DE",
+    "occurred_at": 1603317600,
+    "updated_at": 1607461326,
+    "url": "https://bikewise.org/api/v1/incidents/130109",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/937513",
+      "api_url": "https://bikeindex.org/api/v1/bikes/937513"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/349586/large_Specialized.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/349586/small_Specialized.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 130128,
+    "title": "Stolen 2015 Specialized Sirrus Comp Disc(brown and blue)",
+    "description": "",
+    "address": "Berlin, 12203, DE",
+    "occurred_at": 1603317600,
+    "updated_at": 1607461326,
+    "url": "https://bikewise.org/api/v1/incidents/130128",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/937508",
+      "api_url": "https://bikeindex.org/api/v1/bikes/937508"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/349578/large_465A1E21-A678-41F7-A2B1-9D5EC9478633.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/349578/small_465A1E21-A678-41F7-A2B1-9D5EC9478633.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 130110,
+    "title": "Stolen 2020 Specialized Epic HT(black and green)",
+    "description": "",
+    "address": "Berlin, 12203, DE",
+    "occurred_at": 1603317600,
+    "updated_at": 1607461326,
+    "url": "https://bikewise.org/api/v1/incidents/130110",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/937507",
+      "api_url": "https://bikeindex.org/api/v1/bikes/937507"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/349581/large_C4BDB4A4-864A-402B-B131-BFEB9B1D0B74.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/349581/small_C4BDB4A4-864A-402B-B131-BFEB9B1D0B74.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 129000,
+    "title": "Stolen 2020 Raleigh Nightflight Premium(black)",
+    "description": null,
+    "address": "Berlin, DE",
+    "occurred_at": 1602154968,
+    "updated_at": 1606705354,
+    "url": "https://bikewise.org/api/v1/incidents/129000",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/931605",
+      "api_url": "https://bikeindex.org/api/v1/bikes/931605"
+    },
+    "media": { "image_url": null, "image_url_thumb": null },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 129341,
+    "title": "Stolen 2018 Rabeneick TS4 Edition(black)",
+    "description": "Bike was stolen from a crowded bridge on the October 3 bank holiday between 5:15 and 7:30 pm.",
+    "address": "Berlin, 10589, DE",
+    "occurred_at": 1601737200,
+    "updated_at": 1605916954,
+    "url": "https://bikewise.org/api/v1/incidents/129341",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/933503",
+      "api_url": "https://bikeindex.org/api/v1/bikes/933503"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/344761/large_hofschen-bike_1.png",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/344761/small_hofschen-bike_1.png"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 126140,
+    "title": "Stolen 2016 Fuji(blue)",
+    "description": "",
+    "address": "Berlin, 10249, DE",
+    "occurred_at": 1599091200,
+    "updated_at": 1602514998,
+    "url": "https://bikewise.org/api/v1/incidents/126140",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/862812",
+      "api_url": "https://bikeindex.org/api/v1/bikes/862812"
+    },
+    "media": { "image_url": null, "image_url_thumb": null },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 121874,
+    "title": "Stolen 2016 Riese und Müller ChargerB1(black)",
+    "description": "",
+    "address": "Berlin, 10963, DE",
+    "occurred_at": 1594922400,
+    "updated_at": 1598292202,
+    "url": "https://bikewise.org/api/v1/incidents/121874",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/790656",
+      "api_url": "https://bikeindex.org/api/v1/bikes/790656"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/287023/large_Ec_vTSuWkAU1Nvm.jpeg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/287023/small_Ec_vTSuWkAU1Nvm.jpeg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 121754,
+    "title": "Stolen 2020 Cube Touring 54474(blue)",
+    "description": "Stolen during night",
+    "address": "Senftenberg, 01968, DE",
+    "occurred_at": 1594807200,
+    "updated_at": 1598141000,
+    "url": "https://bikewise.org/api/v1/incidents/121754",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/789746",
+      "api_url": "https://bikeindex.org/api/v1/bikes/789746"
+    },
+    "media": { "image_url": null, "image_url_thumb": null },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 121704,
+    "title": "Stolen 2020 b'Twin X/L(blue)",
+    "description": "Bike was stolen in front of the entry.",
+    "address": "Berlin, 12161, DE",
+    "occurred_at": 1594741935,
+    "updated_at": 1598108601,
+    "url": "https://bikewise.org/api/v1/incidents/121704",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/787405",
+      "api_url": "https://bikeindex.org/api/v1/bikes/787405"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/283733/large_Anmerkung_2020-07-11_230501.jpg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/283733/small_Anmerkung_2020-07-11_230501.jpg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 119456,
+    "title": "Stolen 2019 Haibike SDURO Trekking 4.0(silver, gray or bare metal)",
+    "description": "",
+    "address": "Berlin, 13055, DE",
+    "occurred_at": 1591628400,
+    "updated_at": 1595279005,
+    "url": "https://bikewise.org/api/v1/incidents/119456",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/755855",
+      "api_url": "https://bikeindex.org/api/v1/bikes/755855"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/265840/large_Haibike_SDURO_Trekking_4.0.jpg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/265840/small_Haibike_SDURO_Trekking_4.0.jpg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 118755,
+    "title": "Stolen 2015 Stevens E-Caprile(blue)",
+    "description": "",
+    "address": "Berlin, DE",
+    "occurred_at": 1591370100,
+    "updated_at": 1595030605,
+    "url": "https://bikewise.org/api/v1/incidents/118755",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/755275",
+      "api_url": "https://bikeindex.org/api/v1/bikes/755275"
+    },
+    "media": { "image_url": null, "image_url_thumb": null },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 117996,
+    "title": "Stolen 2019 Larry Vs Harry RAW(silver, gray or bare metal)",
+    "description": "",
+    "address": "Berlin, 10557, DE",
+    "occurred_at": 1590426000,
+    "updated_at": 1594263803,
+    "url": "https://bikewise.org/api/v1/incidents/117996",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/745210",
+      "api_url": "https://bikeindex.org/api/v1/bikes/745210"
+    },
+    "media": {
+      "image_url": "https://files.bikeindex.org/uploads/Pu/252852/large_93803370_10216086760031877_8308785564652404736_o.jpg",
+      "image_url_thumb": "https://files.bikeindex.org/uploads/Pu/252852/small_93803370_10216086760031877_8308785564652404736_o.jpg"
+    },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  },
+  {
+    "id": 119268,
+    "title": "Stolen 2014 Cube Grace MX 2 Trail(black)",
+    "description": "bike was fixed with lock at a bike parking place",
+    "address": "Berlin, 10629, DE",
+    "occurred_at": 1589011200,
+    "updated_at": 1593270204,
+    "url": "https://bikewise.org/api/v1/incidents/119268",
+    "source": {
+      "name": "BikeIndex.org",
+      "html_url": "https://bikeindex.org/bikes/731202",
+      "api_url": "https://bikeindex.org/api/v1/bikes/731202"
+    },
+    "media": { "image_url": null, "image_url_thumb": null },
+    "location_type": null,
+    "location_description": null,
+    "type": "Theft",
+    "type_properties": null
+  }
+]

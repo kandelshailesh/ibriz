@@ -1,11 +1,13 @@
-import React, { useEffect, useState } from 'react';
-import Table from 'components/Table';
-import { columns } from './column';
-import { fetchIncidents } from 'utils/index';
-import Filter from '../Filter';
-import { message, Space } from 'antd';
-import styled from 'styled-components';
-import Loader from 'components/Loader';
+import React, { useEffect, useState } from "react";
+import Table from "components/Table";
+import { columns } from "./column";
+import { fetchIncidents } from "utils/index";
+import Filter from "../Filter";
+import { message, Space } from "antd";
+import styled from "styled-components";
+import Loader from "components/Loader";
+import SkeletonTable from "components/TableSkeleton";
+import SkeletonButton from "antd/lib/skeleton/Button";
 
 export interface IIncidentList {
   title: string;
@@ -38,13 +40,13 @@ const IncidentTable: React.FC = (): JSX.Element => {
   );
   const [biketheftList, setBikeTheftList] = useState<Array<any>>([]);
   const [filter, setFilter] = useState(false);
-  const [area, setArea] = useState('Berlin');
+  const [area, setArea] = useState("Berlin");
 
   const getTotal = async () => {
     try {
       const params: Record<string, string> = {
         proximity: area,
-        incident_type: 'theft',
+        incident_type: "theft",
       };
       const result: any = await fetchIncidents(params);
       setBikeTheftList(result.incidents);
@@ -54,7 +56,7 @@ const IncidentTable: React.FC = (): JSX.Element => {
     } catch (err) {
       console.log(err);
       setLoading(false);
-      message.error('Error while fetching data');
+      message.error("Error while fetching data");
     }
   };
 
@@ -63,7 +65,14 @@ const IncidentTable: React.FC = (): JSX.Element => {
   }, []);
 
   if (loading) {
-    return <Loader />;
+    return (
+      <IncidentTableContainer>
+        <Space style={{ width: "100%" }} direction="vertical" size="middle">
+          <SkeletonButton shape="square"></SkeletonButton>
+          <SkeletonTable rowCount={10} columns={columns} />
+        </Space>
+      </IncidentTableContainer>
+    );
   }
 
   return (

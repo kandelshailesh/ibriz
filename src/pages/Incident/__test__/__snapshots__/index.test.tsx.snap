@@ -1,0 +1,2255 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Incident Page matches snapshot 1`] = `
+<div
+  className="sc-gtsrHT iPlArY"
+>
+  <div
+    className="sc-bdnxRM jNlAVg"
+  >
+    <div
+      className="ant-space ant-space-vertical"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        className="ant-space-item"
+        style={
+          Object {
+            "marginBottom": 16,
+          }
+        }
+      >
+        <div
+          className="ant-skeleton ant-skeleton-element"
+        >
+          <span
+            className="ant-skeleton-button ant-skeleton-button-square"
+            style={Object {}}
+          />
+        </div>
+      </div>
+      <div
+        className="ant-space-item"
+        style={Object {}}
+      >
+        <div
+          className="ant-table-wrapper"
+        >
+          <div
+            className="ant-spin-nested-loading"
+          >
+            <div
+              className="ant-spin-container"
+            >
+              <div
+                className="ant-table ant-table-has-fix-left"
+              >
+                <div
+                  className="ant-table-container"
+                >
+                  <div
+                    className="ant-table-content"
+                    onScroll={[Function]}
+                    style={Object {}}
+                  >
+                    <table
+                      style={
+                        Object {
+                          "tableLayout": "auto",
+                        }
+                      }
+                    >
+                      <colgroup>
+                        <col
+                          style={
+                            Object {
+                              "minWidth": "5%",
+                              "width": "5%",
+                            }
+                          }
+                        />
+                        <col
+                          style={
+                            Object {
+                              "minWidth": "20%",
+                              "width": "20%",
+                            }
+                          }
+                        />
+                        <col
+                          style={
+                            Object {
+                              "minWidth": "20%",
+                              "width": "20%",
+                            }
+                          }
+                        />
+                        <col
+                          style={
+                            Object {
+                              "minWidth": "10%",
+                              "width": "10%",
+                            }
+                          }
+                        />
+                        <col
+                          style={
+                            Object {
+                              "minWidth": "10%",
+                              "width": "10%",
+                            }
+                          }
+                        />
+                        <col
+                          style={
+                            Object {
+                              "minWidth": "10%",
+                              "width": "10%",
+                            }
+                          }
+                        />
+                        <col
+                          style={
+                            Object {
+                              "minWidth": "10%",
+                              "width": "10%",
+                            }
+                          }
+                        />
+                      </colgroup>
+                      <thead
+                        className="ant-table-thead"
+                      >
+                        <tr>
+                          <th
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            ID
+                          </th>
+                          <th
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            Case Title
+                          </th>
+                          <th
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            Description
+                          </th>
+                          <th
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            Theft Date
+                          </th>
+                          <th
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            Reported Date
+                          </th>
+                          <th
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            Location
+                          </th>
+                          <th
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            Image
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody
+                        className="ant-table-tbody"
+                      >
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key0"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key1"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key2"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key3"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key4"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key5"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key6"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key7"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key8"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          className="ant-table-row ant-table-row-level-0"
+                          data-row-key="key9"
+                          onClick={[Function]}
+                          style={Object {}}
+                        >
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "left": 0,
+                                "position": "sticky",
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                          <td
+                            className="ant-table-cell"
+                            colSpan={null}
+                            rowSpan={null}
+                            style={
+                              Object {
+                                "textAlign": "center",
+                              }
+                            }
+                          >
+                            <div
+                              className="ant-skeleton"
+                            >
+                              <div
+                                className="ant-skeleton-content"
+                              >
+                                <h3
+                                  className="ant-skeleton-title"
+                                  style={
+                                    Object {
+                                      "width": undefined,
+                                    }
+                                  }
+                                />
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
