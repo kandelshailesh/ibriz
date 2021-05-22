@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ibriz/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/ibriz/static/js/main.1a737b04.chunk.js",
+    "main.js.map": "/ibriz/static/js/main.1a737b04.chunk.js.map",
+    "runtime-main.js": "/ibriz/static/js/runtime-main.de81a096.js",
+    "runtime-main.js.map": "/ibriz/static/js/runtime-main.de81a096.js.map",
+    "static/js/2.80460094.chunk.js": "/ibriz/static/js/2.80460094.chunk.js",
+    "static/js/2.80460094.chunk.js.map": "/ibriz/static/js/2.80460094.chunk.js.map",
+    "static/css/3.8a94f959.chunk.css": "/ibriz/static/css/3.8a94f959.chunk.css",
+    "static/js/3.dd0f8c41.chunk.js": "/ibriz/static/js/3.dd0f8c41.chunk.js",
+    "static/js/3.dd0f8c41.chunk.js.map": "/ibriz/static/js/3.dd0f8c41.chunk.js.map",
+    "static/js/4.c999f564.chunk.js": "/ibriz/static/js/4.c999f564.chunk.js",
+    "static/js/4.c999f564.chunk.js.map": "/ibriz/static/js/4.c999f564.chunk.js.map",
+    "index.html": "/ibriz/index.html",
+    "static/css/3.8a94f959.chunk.css.map": "/ibriz/static/css/3.8a94f959.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/ibriz/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.80460094.chunk.js.LICENSE.txt": "/ibriz/static/js/2.80460094.chunk.js.LICENSE.txt",
+    "static/js/3.dd0f8c41.chunk.js.LICENSE.txt": "/ibriz/static/js/3.dd0f8c41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de81a096.js",
+    "static/css/3.8a94f959.chunk.css",
+    "static/js/3.dd0f8c41.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.1a737b04.chunk.js"
+  ]
+}
