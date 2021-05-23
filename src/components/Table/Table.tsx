@@ -1,6 +1,6 @@
-import * as React from 'react';
-import { Table as ATable, Spin, ConfigProvider, Empty } from 'antd';
-import { isMobile } from 'react-device-detect';
+import * as React from "react";
+import { Table as ATable, Spin, ConfigProvider, Empty } from "antd";
+import { isMobile } from "react-device-detect";
 
 export interface IColumn {
   key?: string;
@@ -21,7 +21,7 @@ interface Props {
 
 const Table: React.FC<Props> = ({ columns, total, dataSource, loading }) => {
   const onPagechange = (val: any) => {
-    console.log('Page', val);
+    console.log("Page", val);
   };
 
   const pagination: any = {
@@ -31,7 +31,7 @@ const Table: React.FC<Props> = ({ columns, total, dataSource, loading }) => {
     defaultCurrent: 1,
     showTotal: (total: number, range: Array<number>) =>
       `${range[0]}-${range[1]} of ${total} items`,
-    position: ['bottomRight'],
+    position: ["bottomRight"],
   };
 
   return (
@@ -40,12 +40,12 @@ const Table: React.FC<Props> = ({ columns, total, dataSource, loading }) => {
         loading ? (
           <span></span>
         ) : (
-          <Empty description={'No any incidents found'} />
+          <Empty description={"No any incidents found"} />
         )
       }
     >
       <ATable
-        size={'small'}
+        size={"small"}
         pagination={dataSource.length > 0 ? pagination : {}}
         dataSource={dataSource}
         columns={columns}

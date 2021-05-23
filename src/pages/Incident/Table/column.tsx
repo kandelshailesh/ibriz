@@ -21,7 +21,6 @@ export const columns: Array<IColumn> = [
     dataIndex: "title",
     width: isMobile ? 100 : "20%",
     align: "center",
-    fixed: "left",
     render: (record: string): JSX.Element =>
       record ? (
         <p style={{ textAlign: "left" }}>
@@ -67,7 +66,6 @@ export const columns: Array<IColumn> = [
         </p>
       ),
     width: isMobile ? 200 : "20%",
-    fixed: "left",
   },
   {
     key: "theft_date",
@@ -103,7 +101,7 @@ export const columns: Array<IColumn> = [
       record.media.image_url_thumb ? (
         <img
           alt="Bike"
-          width={isMobile ? 100 : 200}
+          width={isMobile ? 90 : 200}
           height="100"
           src={record?.media?.image_url_thumb}
         />

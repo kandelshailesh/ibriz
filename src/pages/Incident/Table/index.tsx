@@ -49,10 +49,10 @@ const IncidentTable: React.FC = (): JSX.Element => {
         incident_type: "theft",
       };
       const result: any = await fetchIncidents(params);
-      setBikeTheftList(result.incidents);
-      setFilterBikeTheftList(result.incidents);
+      setBikeTheftList(result?.incidents);
+      setFilterBikeTheftList(result?.incidents);
       setLoading(false);
-      setTotal(result.incidents.length);
+      setTotal(result?.incidents?.length);
     } catch (err) {
       console.log(err);
       setLoading(false);
@@ -77,7 +77,7 @@ const IncidentTable: React.FC = (): JSX.Element => {
 
   return (
     <IncidentTableContainer>
-      <Space direction="vertical" size="middle">
+      <Space direction="vertical" style={{ width: "100%" }}>
         <Filter
           filter={filter}
           setFilter={setFilter}
