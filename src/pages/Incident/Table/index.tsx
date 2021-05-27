@@ -54,7 +54,6 @@ const IncidentTable: React.FC = (): JSX.Element => {
       setLoading(false);
       setTotal(result?.incidents?.length);
     } catch (err) {
-      console.log(err);
       setLoading(false);
       message.error("Error while fetching data");
     }

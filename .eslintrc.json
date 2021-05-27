@@ -21,17 +21,18 @@
     "curly": "error",
     "eqeqeq": "error",
     "no-empty": "error",
-    "no-console": "warn",
+    "no-console": "off",
     "no-eq-null": "error",
     "valid-jsdoc": "error",
     "require-await": "error",
     "require-jsdoc": "warn",
     "no-unreachable": "error",
     "complexity": ["warn", 10],
-    "no-empty-function": "error",
+    "no-empty-function": "off",
     "react/prop-types": "off",
     "@typescript-eslint/no-explicit-any": "off",
     "no-unused-vars": "off",
-    "@typescript-eslint/no-unused-vars": "off"
+    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-empty-function": "off"
   }
 }
